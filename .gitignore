@@ -1,9 +1,10 @@
 # OSX
 #
 .DS_Store
-.bundle
+.bundle/
 node_modules/
 __test__/
+android/
 # Xcode
 #
 build/
