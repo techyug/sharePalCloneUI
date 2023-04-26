@@ -1,7 +1,7 @@
 # sharePalCloneUI
 <img src="Screenshots/splashScreen.jpg" alt="Alt text" width="200px">
 <img src="Screenshots/homeScreen.jpg" alt="Alt text" width="200px">
+
+<a href='https://youtube.com/shorts/Qg6o3DB7Xhw?feature=share' >
 <img src="Screenshots/homescree1.jpg" alt="Alt text" width="200px">
-<video src="Screenshots/video.mp4" alt="Alt text" height="200px" controls>
-  Sorry, your browser doesn't support embedded videos.
-</video>
+</a>
